@@ -9,7 +9,9 @@ Music_CLassification_App guideline <br />
   Then click on the 'Show Result' button. <br />
   One other window will appear and show you the result predicted by our 3 selected models  <br />
   ![image](gui_images/readme2.png)  <br />
-  You can turn off the window or press 'Turn back!' button to process your next classification.
+  You can turn off the window or press 'Turn back!' button to process your next classification. <br />
+
+  download link : https://drive.google.com/drive/folders/16cj8qMGcrJ-C2xNwwVLRJkG5p34nucyT?usp=drive_link
   
 
 
