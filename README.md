@@ -11,7 +11,7 @@ Music_CLassification_App guideline <br />
   ![image](gui_images/readme2.png)  <br />
   You can turn off the window or press 'Turn back!' button to process your next classification. <br />
 
-  download link : https://drive.google.com/drive/folders/16cj8qMGcrJ-C2xNwwVLRJkG5p34nucyT?usp=drive_link
+
   
 
 
